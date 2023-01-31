@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Van
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Van\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Van()
+comment2.params=loadVolume
+comment2.target=void\ setLoadVolume(double)
+comment3.params=
+comment3.target=double\ getLoadVolume()
+comment4.params=slidingSideDoor
+comment4.target=void\ setSlidingsideDoor(boolean)
+comment5.params=
+comment5.target=boolean\ getSlidingSideDoor()
+comment6.params=
+comment6.target=java.lang.String\ getSlidingDoor()
+comment7.params=scanner2
+comment7.target=void\ readData(java.util.Scanner)
+comment8.params=
+comment8.target=void\ showData()
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Test
+comment0.text=\r\n\ Test\ class\ for\ the\ project\ by\ Dominykas\ Jokubauskas\ AGE491\r\n\ Notes\ for\ fixing\:\r\n\ -optimising\ the\ code\r\n\ -See\ if\ all\ accesors\ and\ mutators\ are\ present\ \r\n\ -\ comment\ all\ needed\ things\ for\ clarification\r\n\ -\ generateReservationNo\ in\ ReservationSystem\ figure\ out\ how\ to\ create\ unique\ numbers\ that\ do\ not\ start\ from\ 0\r\n
+comment1.params=
+comment1.target=Test()
+numComments=2
